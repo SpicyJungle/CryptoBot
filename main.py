@@ -8,7 +8,7 @@ import cryptocompare
 
 
 TKNS = [
-  "ODQwNzEwMDM3NTgwMjgzOTE0.YJcKPA.w7ylZe1sgfbTRRy2GnnHOAILsvk"
+  "ODQwNzEwMDM3NTgwMjgzOTE0.YJcKPA.w7ylZe1sgfbTRRy2GnnHOAILsvk" # Token has been regenerated, don't worry.
   ]
 TOKEN = TKNS[0]
 
