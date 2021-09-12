@@ -17,7 +17,7 @@ intents.members = True
 intents.typing = False
 bot = commands.Bot(command_prefix="$", case_insensitive=True, intents=intents)
 bot.remove_command("help")
-cmc = CoinMarketCap("9fafa4e9-1891-42cb-b765-a105c2bd6639")
+cmc = CoinMarketCap("9fafa4e9-1891-42cb-b765-a105c2bd6639") # Has been regenerated
 
 @bot.event
 async def on_ready():
